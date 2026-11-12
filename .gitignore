@@ -1,0 +1,20 @@
+# Gradle and Build Files
+.gradle/
+**/build/
+build/
+
+# Local configuration
+local.properties
+**/local.properties
+
+# Android Studio & IDE
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS generated
+.DS_Store
+Thumbs.db
